@@ -1,0 +1,3 @@
+function idea
+  cd /home/bvn13/soft/idea-IU/bin && . idea.sh
+end

@@ -1,0 +1,3 @@
+function mc
+  export EDITOR=emacs && /usr/bin/mc
+end

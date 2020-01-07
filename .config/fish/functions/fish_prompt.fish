@@ -1,0 +1,1 @@
+/home/bvn13/.local/share/omf/themes/shellder/fish_prompt.fish

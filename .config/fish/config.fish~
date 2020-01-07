@@ -1,0 +1,2 @@
+set -x -g PATH $PATH /home/bvn13/.local/bin/
+set -x -g EDITOR emacsedit
